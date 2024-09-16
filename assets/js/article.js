@@ -18,7 +18,7 @@ async function renderArticle(file) {
 }
 
 // Load a specific article
-renderArticle('test.md');
+renderArticle('adventureGame.md');
 
 
 // https://script.google.com/macros/s/AKfycbwgIYWuwBxoHJizYu80uHPTIwQ-yZEaMwT2Y0EXXmxozFixFZLpKvkYN3tbD7-4fLj7/exec
